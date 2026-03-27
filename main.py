@@ -16,5 +16,5 @@ async def generate_checksum(data: TextInput):
     
     return {
         "checksum": checksum,
-        "message": "Welcome, [Your Name]!"
+        "message": "Welcome, [Pista Madalina-Ioana]!"
     }
